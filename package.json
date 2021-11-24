@@ -1,0 +1,23 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "node.js command-line application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenderDigits/team-profile.git"
+  },
+  "author": "Sergio Lamar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TenderDigits/team-profile/issues"
+  },
+  "homepage": "https://github.com/TenderDigits/team-profile#readme"
+}
